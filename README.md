@@ -1,1 +1,1 @@
-# MIN-303---Project
+# Movie Rating Predictor
